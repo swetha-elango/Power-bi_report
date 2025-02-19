@@ -2,10 +2,12 @@
 This repository contains a Power BI dashboard project on Indian Crop Production. Built as part of my MSc in Data Science and Analytics at Cardiff University.
 
 
+
 **Live Report**
 
 Click here to view the full interactive report:  
 🔗 **[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiM2Q0ZTMxY2MtNGRjMy00MDFhLWEzNTEtYWVjYzFmYzI0YTdjIiwidCI6ImJkYjc0YjMwLTk1NjgtNDg1Ni1iZGJmLTA2NzU5Nzc4ZmNiYyIsImMiOjh9)**
+
 
 
 **Insights**
@@ -16,6 +18,7 @@ Click here to view the full interactive report:
 - Showcased key metrics like total production and yield per year to provide a holistic view of Indian agricultural production.  
 - Presented findings and actionable recommendations with strong data storytelling and communication skills.  
 
+**Dataset** - From Kaggle
 
 ## 📝 **How to Use**
 1. Download the `.pbix` file.
